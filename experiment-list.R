@@ -1,0 +1,17 @@
+exps <- c( "verizon-midtown", "verizon-promenade", "verizon-njtransit1", "verizon-njtransit3", "verizon-njcommute1",
+           "verizon-njcommute2", "verizon-subway", "verizon-brooklyncommute3", "verizon-brooklyncommute",
+           "verizon-34th1", "verizon-34th2", "verizon-aboveground", "verizon-borohall",
+           "verizon-brooklyncommute4", "verizon-crownheights", "verizon-downtownbklyn1", "verizon-downtownbklyn2",
+           "verizon-eastvillage", "verizon-livingston1", "verizon-livingston2", "verizon-manhattanbridge",
+           "verizon-mansubway", "verizon-metrotech", "verizon-midwood1", "verizon-midwood2", "verizon-midwood3",
+           "verizon-njcommute3", "verizon-njcommute4", "verizon-njcommute5", "verizon-njtransit10",
+           "verizon-njtransit11", "verizon-njtransit12", "verizon-njtransit13",
+           "verizon-njtransit6", "verizon-njtransit7", "verizon-njtransit8", "verizon-njtransit9",
+           "verizon-nypenn", "verizon-ppsub", "verizon-stelizabeth", "verizon-unionsquare",
+           "verizon-newark", "verizon-njcl01", "verizon-njcl02", "verizon-lakewood01", "verizon-lakewood02",
+           "verizon-verrazano", "verizon-boropark", "verizon-brooklyncommute5", "verizon-brooklyncommute6",
+           "verizon-subway01", "verizon-subway02", "verizon-42st", "verizon-42st02", "verizon-42st03", "verizon-hudson",
+           "verizon-passaicbus01", "verizon-passaicbus02", "verizon-passaicbus03", "verizon-passaicbus04",
+           "verizon-passaicbus05", "verizon-subway03", "verizon-subway04", "verizon-14th", "verizon-ferry"
+)
+
